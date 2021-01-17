@@ -1,0 +1,4 @@
+-boot start_sasl
+-sname coinbase_node
+-setcookie mastercookie
+-kernel shell_history enabled
